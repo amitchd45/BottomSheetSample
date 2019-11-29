@@ -14,9 +14,6 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import com.google.android.material.bottomsheet.BottomSheetBehavior;
 import com.google.android.material.bottomsheet.BottomSheetDialogFragment;
 
-/**
- * Created by Nikola D. on 2/25/2016.
- */
 public class CustomBottomSheetDialogFragment extends BottomSheetDialogFragment {
 
     private TextView mOffsetText;
